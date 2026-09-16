@@ -1,0 +1,11 @@
+{
+  "name": "Mpox Angola - Triagem Rápida e Orientação de Saúde",
+  "description": "Plataforma de triagem rápida e orientação comunitária sobre Mpox em Angola com análise de lesões por IA, informações oficiais, cuidados e unidades de saúde especializadas.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
